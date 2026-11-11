@@ -25,6 +25,7 @@ Le projet fonctionne **à 100 % hors ligne**, garantissant une souveraineté et 
                                                 v                           v
                                        [ Audio : Piper TTS ]      [ Webhook : Discord ]
                                        (Rapport vocal local)       (Notification texte)
+```
 
 ✨ Fonctionnalités clés
 
